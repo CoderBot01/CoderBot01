@@ -7,8 +7,8 @@
 
 🛠️ My tech stack includes:
 - Frontend: HTML, CSS, JavaScript, React
-- Backend: Node.js, Express, Regex
-- Databases: PostgreSQL, MongoDB
+- Backend: Node.js, Express, Java, Python
+- Databases: PostgreSQL, MongoDB, Mysql
 - Version Control: Git
 
 🚀 Whether it's designing intuitive user interfaces, optimizing server performance, or tackling database architecture, I'm always up for a challenge in the ever-evolving world of web development.
