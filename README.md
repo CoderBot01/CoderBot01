@@ -1,7 +1,5 @@
 👋 Hello, I'm PRAVEENKUMAR!
 
-🚀ML ENGINEER 
-
 🌐 Full Stack Web Developer | 💻 Passionate about Crafting Digital Experiences
 
 👨‍💻 I'm a versatile Full Stack Web Developer with a knack for building robust, user-friendly web applications. I thrive on the creative process of turning complex problems into elegant, efficient, and responsive solutions.
