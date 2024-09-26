@@ -8,13 +8,13 @@
 
 Passionate about fusing cybersecurity with software development, I leverage HTML, CSS, JavaScript, Python, and Java for secure digital solutions. With expertise in SQL, I drive decisions with data insights. Additionally, I prioritize cloud security, integrating best practices for safeguarding data and applications. Committed to excellence, I deliver innovative solutions that prioritize functionality and mitigate risks, ensuring business success in the tech industry.
 
-- 🔭 Currently working on: **Enhancing cyber defenses**
-- 🌱 Learning: **Rust and advanced penetration testing techniques**
-- 👯 Open to collaborate on: **Cybersecurity and open-source projects**
-- 💬 Ask me about: **Python, Web Security, and Ethical Hacking**
+- 🔭 Currently working on: **Developing Local Messenger**
+- 🌱 Learning: **Next js and Python(Django)**
+- 👯 Open to collaborate on: **Full Stack Development**
+- 💬 Ask me about: **Python, Javascript, Web Security, and Ethical Hacking**
 - 📫 Reach me at: praveenkumarellai555@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can solve a Rubik's cube in under a minute.
+- ⚡ Fun fact: I want to solve a Leetcode problem in under a minute.
 
 ## 🛠️ Technical Skills
 
