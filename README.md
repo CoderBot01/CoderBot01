@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CoderBot01&style=flat-square&color=green)
 [![GitHub followers](https://img.shields.io/github/followers/CoderBot01?label=Follow&style=social)](https://github.com/CoderBot01/?tab=follow)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/praveenkumarellai555/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/praveenkumare24/)
 
 ## 👨‍💻 About Me
 
