@@ -20,7 +20,6 @@ Passionate about fusing cybersecurity with software development, I leverage HTML
 
 **Languages**
 - ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-- - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 - ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=mysql)
 - ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
@@ -28,28 +27,17 @@ Passionate about fusing cybersecurity with software development, I leverage HTML
 
 **Cybersecurity**
 - ![Web Security](https://img.shields.io/badge/-Web%20Security-000?style=flat&logo=security)
-- ![Network Security](https://img.shields.io/badge/-Network%20Security-000?style=flat&logo=cisco)
-- ![VAPT](https://img.shields.io/badge/-VAPT-000?style=flat&logo=hack-the-box)
-- ![Encryption](https://img.shields.io/badge/-Encryption-000?style=flat&logo=lock)
 
 **Tools/Frameworks**
 - ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-- ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-- ![MetaSploit](https://img.shields.io/badge/-MetaSploit-000?style=flat&logo=metasploit)
-- ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-000?style=flat&logo=burp-suite)
-- ![Nmap](https://img.shields.io/badge/-Nmap-000?style=flat&logo=nmap)
-- ![Wireshark](https://img.shields.io/badge/-Wireshark-000?style=flat&logo=wireshark)
 - ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 
 ## 🏆 Certifications
-- **Junior Cybersecurity Analyst** (CISCO)
 - **SQL Injection** (EC-Council)
-- **Network Defense Essentials** (NDE - EC-Council)
-- **Android Bug Bounty Hunting**
-- **Ethical Hacking Essentials** (EC-Council)
 - **Web Development** (ATAS)
 - **Python and SQL** (ATAS)
+- **Product Management Basic Certification**(Pendo)
 
 ## 📚 Journal Published
 - **Blockchain Based Placement Management System and Job Recommendation Using Content Based Filtering**
