@@ -1,6 +1,6 @@
 # Hi there, I'm Praveenkumar E! 👾
 
-Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** specializing in the **MERN stack** and **UI/UX development**. With expertise in modern frameworks like **React.js** and **Next.js**, I craft seamless, dynamic web applications that prioritize performance and user experience. 🚀
+Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** specializing in the **MERN stack** and **Python Development with Django and FASTAPI**. With expertise in modern frameworks like **React.js** and **Next.js**, I craft seamless, dynamic web applications that prioritize performance and user experience. 🚀
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** specia
 - 🔭 **Currently Working On**: A **Fullstack Messaging App** using **Next.js**  
 - 🌱 **Learning**: Advanced **Next.js** and **TypeScript**  
 - 👯 **Open to Collaborate On**: MERN Stack projects, UI/UX-focused applications  
-- 💬 **Ask Me About**: React.js, Next.js, Node.js, UI/UX design, and state management  
+- 💬 **Ask Me About**: React.js, Next.js, Node.js, DJango, FASTAPI and state management  
 - 📫 **Reach Me At**: praveenkumarellai555@gmail.com  
 - ⚡ **Fun Fact**: I aim to solve a LeetCode problem in under a minute!
 
@@ -26,14 +26,13 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** specia
 - **React.js**, **Next.js**
 - **Node.js**, **Express.js**
 - **Bootstrap**, **Tailwind CSS**
-
+- **Django**, **FASTAPI**
 ### **Databases**
-- **MongoDB**, **SQL**
+- **MongoDB**, **SQL**, **PostgreSQL**
 
 ### **Tools & Platforms**
 - **Git**, **GitHub**, **VS Code**, **Postman**
 - **Docker**, **Kubernetes**
-- **Figma** (for UI/UX prototyping)
 
 ---
 
@@ -41,7 +40,7 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** specia
 
 ### 🌐 **Fullstack Messaging App**
 - A real-time messaging app built with **Next.js**, featuring chat and file-sharing capabilities.
-- Backend powered by **Node.js** and **MongoDB**, with **Redux Toolkit** for state management.
+- Backend powered by **FastAPI** and **SQL**, with **Redux Toolkit** for state management.
 - Designed for responsive and user-friendly experiences.
 
 [View Project](#)
@@ -63,7 +62,6 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** specia
 
 ## 🏆 Certifications
 
-- **React.js Basics** (Coursera)  
 - **Full Stack Development** (Udemy)  
 - **Web Development** (ATAS)  
 
@@ -73,7 +71,7 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** specia
 
 ### **Bachelor of Technology - Information Technology**
 - **Sengunthar College of Engineering**  
-- **CGPA:** 8.49 | **2020-2024**
+- **CGPA:** 8.5 | **2020-2024**
 
 ### **HSC - 12th Grade**
 - **MDV HR SEC SCHOOL, Tiruchengode**  
